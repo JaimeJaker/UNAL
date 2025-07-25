@@ -1,4 +1,10 @@
 ---
+# UNAL – Repositorio Académico
+
+## Descripción
+
+Repositorio personal de materiales, tareas, proyectos y apuntes de la **Universidad Nacional de Colombia** – Ingeniería de Sistemas y Computación.  
+El contenido está organizado por semestre y asignatura.
 
 ## Estructura
 
